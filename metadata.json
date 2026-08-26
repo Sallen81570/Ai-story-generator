@@ -1,0 +1,8 @@
+{
+  "name": "Remix Subliminal AI Sleep \u0026 Affirmation Studio",
+  "description": "Synthesize whispering AI subliminal voices, stream Ebooks and PDFs with lookahead paragraph audio caching, sculpt full-spectrum colored noise beds, entrain brainwaves with binaural beats & DMT pineal frequencies, and export mastered WAV tracks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
